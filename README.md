@@ -1,6 +1,6 @@
 # CadastroPessoas
 
-Este repositório se destina ao projeto final do módulo 2 do curso de Programação de Computadores e Dispositivos Movéis oferecido pelo Instituto Federal São Paulo (Campus Sertãozinho). O projeto consite em uma aplicação Java-Android para o cadastro de pessoas fazendo uso de SGBD MySQL.
+Este repositório se destina ao projeto final do módulo 2 do curso de Programação de Computadores e Dispositivos Movéis oferecido pelo Instituto Federal São Paulo (Campus Sertãozinho). O projeto consite em uma aplicação Java-Android para o cadastro de pessoas fazendo uso de SGBD SQLite..
 
 ![26234213_715663148623092_1039705261_n](https://user-images.githubusercontent.com/9852787/34423807-d8f1c4ea-ec05-11e7-8b74-5b6ea6d0ea9f.png)
 
